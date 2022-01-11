@@ -8,8 +8,7 @@
 subprojects {
     apply plugin: 'java'
     apply plugin: 'maven-publish'
-    apply plugin: 'io.freefair.lombok'
-
+    
     group = 'us.jcedeno'
     /** Versioning format YEAR.MONTH.DAY.ITERATION */
     version  = '2022.1.12.1'
