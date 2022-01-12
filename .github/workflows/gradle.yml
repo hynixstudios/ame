@@ -36,5 +36,5 @@ jobs:
       with:
         name: Anmelden-JDk17
         path: |
-        velocity/build/libs
-        bukkit/build/libs
+          velocity/build/libs
+          bukkit/build/libs
