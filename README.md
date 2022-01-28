@@ -1,4 +1,4 @@
-# Badges
+
 [![Build](https://github.com/InfinityZ25/anmelden/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/InfinityZ25/anmelden/actions/workflows/gradle.yml)
 
 [![](https://deepsource.io/gh/InfinityZ25/anmelden.svg/?label=active+issues&show_trend=true&token=sPX8hy-kn9fAZ45rKxSvBDrb)](https://deepsource.io/gh/InfinityZ25/anmelden/?ref=repository-badge)
